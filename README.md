@@ -15,6 +15,7 @@ Toujours soucieux de partager mes connaissances, je deviens formateur au sein du
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=davaxi&repo=Sparkline)](https://github.com/davaxi/Sparkline)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=davaxi&repo=Google_Event_Template)](https://github.com/davaxi/Google_Event_Template)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=davaxi&repo=VCalendar)](https://github.com/davaxi/VCalendar)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=davaxi&repo=po_sync)](https://github.com/davaxi/po_sync)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=davaxi&theme=dracula&no-frame=true&no-bg=true&margin-w=4&column=6&rank=-C,-B)
